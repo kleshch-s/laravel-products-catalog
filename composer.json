@@ -1,0 +1,14 @@
+{
+    "name": "kleshch-s/laravel-products-catalog",
+    "description": "Laravel5 products catalog",
+    "type": "pachage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Kleshch",
+            "email": "markelov2day@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
