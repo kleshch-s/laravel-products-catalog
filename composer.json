@@ -1,7 +1,8 @@
 {
     "name": "kleshch-s/laravel-products-catalog",
     "description": "Laravel5 products catalog",
-    "type": "pachage",
+    "version": "1.0.0",
+    "type": "package",
     "license": "MIT",
     "authors": [
         {
